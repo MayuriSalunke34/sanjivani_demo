@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
  
  
-public class Main
+public class starpattern
 {
     public static void main (String[] args)
     {
@@ -19,7 +19,7 @@ public class Main
     {
       for ( j = 1; j <= i; j++)
       {
-        System.out.print("* ");
+        System.out.print("*");
       }
       System.out.println();
     }
